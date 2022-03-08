@@ -1,0 +1,6 @@
+name: 'Config Handler'
+description: 'Parses values from a config file (json)'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
